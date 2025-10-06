@@ -98,6 +98,9 @@ int main(int argc, char** argv)
         my_dgemv(n, A, X, Y); 
 
         // insert end timer code here, and print out the elapsed time for this problem size
+        auto end = std::chrono::high_resolution_clock::now();
+        std::chrono::duration<double> elapsed = end - start;
+        printf("N=%d, Time=%f seconds\n", n, elapsed.count());
 
 
         // now invoke the cblas method to compute the matrix-vector multiplye
