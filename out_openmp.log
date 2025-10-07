@@ -1,0 +1,199 @@
+=== OMP_NUM_THREADS=1 ===
+Working on problem size N=1024 
+N=1024, Time=0.000900 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000898 seconds
+Working on problem size N=2048 
+N=2048, Time=0.003557 seconds
+Working on problem size N=4096 
+N=4096, Time=0.014547 seconds
+Working on problem size N=8192 
+N=8192, Time=0.058464 seconds
+Working on problem size N=16384 
+N=16384, Time=0.233098 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000902 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000875 seconds
+Working on problem size N=2048 
+N=2048, Time=0.003561 seconds
+Working on problem size N=4096 
+N=4096, Time=0.014499 seconds
+Working on problem size N=8192 
+N=8192, Time=0.058200 seconds
+Working on problem size N=16384 
+N=16384, Time=0.233055 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000898 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000898 seconds
+Working on problem size N=2048 
+N=2048, Time=0.003572 seconds
+Working on problem size N=4096 
+N=4096, Time=0.014571 seconds
+Working on problem size N=8192 
+N=8192, Time=0.058457 seconds
+Working on problem size N=16384 
+N=16384, Time=0.233120 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000900 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000896 seconds
+Working on problem size N=2048 
+N=2048, Time=0.003558 seconds
+Working on problem size N=4096 
+N=4096, Time=0.014545 seconds
+Working on problem size N=8192 
+N=8192, Time=0.058628 seconds
+Working on problem size N=16384 
+N=16384, Time=0.233159 seconds
+
+=== OMP_NUM_THREADS=4 ===
+Working on problem size N=1024 
+N=1024, Time=0.000860 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000478 seconds
+Working on problem size N=2048 
+N=2048, Time=0.001622 seconds
+Working on problem size N=4096 
+N=4096, Time=0.004177 seconds
+Working on problem size N=8192 
+N=8192, Time=0.015268 seconds
+Working on problem size N=16384 
+N=16384, Time=0.059193 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000858 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000478 seconds
+Working on problem size N=2048 
+N=2048, Time=0.001467 seconds
+Working on problem size N=4096 
+N=4096, Time=0.004263 seconds
+Working on problem size N=8192 
+N=8192, Time=0.015203 seconds
+Working on problem size N=16384 
+N=16384, Time=0.059327 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000885 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000480 seconds
+Working on problem size N=2048 
+N=2048, Time=0.001233 seconds
+Working on problem size N=4096 
+N=4096, Time=0.004384 seconds
+Working on problem size N=8192 
+N=8192, Time=0.015266 seconds
+Working on problem size N=16384 
+N=16384, Time=0.060340 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000886 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000478 seconds
+Working on problem size N=2048 
+N=2048, Time=0.001311 seconds
+Working on problem size N=4096 
+N=4096, Time=0.004345 seconds
+Working on problem size N=8192 
+N=8192, Time=0.015481 seconds
+Working on problem size N=16384 
+N=16384, Time=0.061666 seconds
+
+=== OMP_NUM_THREADS=16 ===
+Working on problem size N=1024 
+N=1024, Time=0.001925 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000521 seconds
+Working on problem size N=2048 
+N=2048, Time=0.001054 seconds
+Working on problem size N=4096 
+N=4096, Time=0.002794 seconds
+Working on problem size N=8192 
+N=8192, Time=0.011999 seconds
+Working on problem size N=16384 
+N=16384, Time=0.047379 seconds
+Working on problem size N=1024 
+N=1024, Time=0.001960 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000230 seconds
+Working on problem size N=2048 
+N=2048, Time=0.000925 seconds
+Working on problem size N=4096 
+N=4096, Time=0.002896 seconds
+Working on problem size N=8192 
+N=8192, Time=0.012022 seconds
+Working on problem size N=16384 
+N=16384, Time=0.047475 seconds
+Working on problem size N=1024 
+N=1024, Time=0.001937 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000233 seconds
+Working on problem size N=2048 
+N=2048, Time=0.000975 seconds
+Working on problem size N=4096 
+N=4096, Time=0.002735 seconds
+Working on problem size N=8192 
+N=8192, Time=0.011880 seconds
+Working on problem size N=16384 
+N=16384, Time=0.047306 seconds
+Working on problem size N=1024 
+N=1024, Time=0.001944 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000576 seconds
+Working on problem size N=2048 
+N=2048, Time=0.001101 seconds
+Working on problem size N=4096 
+N=4096, Time=0.002840 seconds
+Working on problem size N=8192 
+N=8192, Time=0.012018 seconds
+Working on problem size N=16384 
+N=16384, Time=0.047434 seconds
+
+=== OMP_NUM_THREADS=64 ===
+Working on problem size N=1024 
+N=1024, Time=0.008289 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000315 seconds
+Working on problem size N=2048 
+N=2048, Time=0.000904 seconds
+Working on problem size N=4096 
+N=4096, Time=0.002840 seconds
+Working on problem size N=8192 
+N=8192, Time=0.012536 seconds
+Working on problem size N=16384 
+N=16384, Time=0.049622 seconds
+Working on problem size N=1024 
+N=1024, Time=0.007709 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000635 seconds
+Working on problem size N=2048 
+N=2048, Time=0.001256 seconds
+Working on problem size N=4096 
+N=4096, Time=0.003330 seconds
+Working on problem size N=8192 
+N=8192, Time=0.012640 seconds
+Working on problem size N=16384 
+N=16384, Time=0.049595 seconds
+Working on problem size N=1024 
+N=1024, Time=0.008016 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000615 seconds
+Working on problem size N=2048 
+N=2048, Time=0.001356 seconds
+Working on problem size N=4096 
+N=4096, Time=0.002877 seconds
+Working on problem size N=8192 
+N=8192, Time=0.012423 seconds
+Working on problem size N=16384 
+N=16384, Time=0.050037 seconds
+Working on problem size N=1024 
+N=1024, Time=0.008281 seconds
+Working on problem size N=1024 
+N=1024, Time=0.000346 seconds
+Working on problem size N=2048 
+N=2048, Time=0.000924 seconds
+Working on problem size N=4096 
+N=4096, Time=0.003678 seconds
+Working on problem size N=8192 
+N=8192, Time=0.012648 seconds
+Working on problem size N=16384 
+N=16384, Time=0.050152 seconds
